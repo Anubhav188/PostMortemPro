@@ -1,6 +1,6 @@
 # 🩺 PostMortemPro
 
-**PostMortemPro** is an AI-powered web app that transforms brief incident details into structured, professional post-mortem reports — built for hospitality-style incident analysis.
+**PostMortemPro** is an AI-powered web app that transforms brief incident details into structured, professional post-mortem reports — built for hospitality-style incident analysis. 
 
 ---
 
